@@ -20,6 +20,7 @@ This project focuses on analyzing the annual shareholders' letters written by Wa
 6. **Time-Series Analysis**: The sentiment scores over time are analyzed to identify any trends or patterns in Buffett's sentiment.
 7. **Lexical Dispersion Plot**: A scatter plot is created to show the occurrence of specific words of interest across the years.
 
+
 ## Dependencies
 To run the code in this project, you will need the following dependencies with the specified versions:
 
