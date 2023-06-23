@@ -19,7 +19,7 @@ This project focuses on analyzing the annual shareholders' letters written by Wa
 5. **Word Cloud Visualization**: A word cloud is generated to visually represent the frequency of words in the text data.
 6. **Time-Series Analysis**: The sentiment scores over time are analyzed to identify any trends or patterns in Buffett's sentiment.
 7. **Lexical Dispersion Plot**: A scatter plot is created to show the occurrence of specific words of interest across the years.
-
+ 
 
 ## Dependencies
 To run the code in this project, you will need the following dependencies with the specified versions:
