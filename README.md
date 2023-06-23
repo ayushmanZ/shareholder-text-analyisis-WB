@@ -2,7 +2,7 @@
 
 Warren Buffett Text Analysis Project
 This project focuses on analyzing the annual shareholders' letters written by Warren Buffett, one of the most successful investors in the world. The goal is to gain insights into his investing strategy through sentiment analysis and exploratory data analysis.
- 
+   
 ## Project Overview
 
 - The project involves analyzing Warren Buffett's annual shareholders' letters using various natural language processing (NLP) techniques.
