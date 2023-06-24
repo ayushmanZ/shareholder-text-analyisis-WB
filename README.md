@@ -1,5 +1,6 @@
 # shareholder-text-analyisis-WB
 
+
 Warren Buffett Text Analysis Project
 This project focuses on analyzing the annual shareholders' letters written by Warren Buffett, one of the most successful investors in the world. The goal is to gain insights into his investing strategy through sentiment analysis and exploratory data analysis.
    
@@ -8,7 +9,7 @@ This project focuses on analyzing the annual shareholders' letters written by Wa
 - The project involves analyzing Warren Buffett's annual shareholders' letters using various natural language processing (NLP) techniques.
 - Sentiment analysis is performed to understand the polarity and subjectivity of the text and identify the overall sentiment of each letter.
 - Exploratory data analysis techniques, such as word frequency analysis, common bigrams analysis, and word cloud visualization, are used to uncover key themes and patterns in the letters.
-- The project utilizes Python's popular NLP libraries, including NLTK, TextBlob, pandas, matplotlib, seaborn, and wordcloud.
+- The project utilizes Python's popular NLP libraries, including NLTK, TextBlob, pandas, matplotlib, seaborn, and word cloud.
 
 ## Key Components
 
@@ -45,7 +46,7 @@ The project provides insights into Warren Buffett's investing strategy based on 
 
 - The overall sentiment of the letters tends to be positive, indicating Buffett's optimism and confidence.
 - The most common words used in the letters reveal recurring themes related to investing, value, business, and capital.
-- The common bigrams highlight specific phrases or combinations of words that are frequently mentioned by Buffett.
+- The common bigrams highlight specific phrases or combinations of words that Buffett frequently mentions.
 - The word cloud visualization presents an intuitive representation of the most frequent words in the text data.
 - The sentiment analysis over time reveals any shifts or changes in Buffett's sentiment across different years.
 - The lexical dispersion plot showcases the occurrence of specific words of interest across the years, providing insights into Buffett's focus areas.
@@ -55,6 +56,6 @@ The project provides insights into Warren Buffett's investing strategy based on 
 This project can be further improved and extended in the following ways:
 
 - Include additional NLP techniques, such as named entity recognition, topic modeling, or text summarization, for a more comprehensive analysis.
-- Explore advanced visualization techniques, such as network analysis, to uncover relationships between words or concepts in the text data.
+- Explore advanced visualization techniques like network analysis to uncover relationships between words or concepts in the text data.
 - Perform comparative analysis by incorporating data from other successful investors or benchmarking against market performance.
 
