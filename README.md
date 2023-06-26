@@ -49,7 +49,7 @@ The project provides insights into Warren Buffett's investing strategy based on 
 - The common bigrams highlight specific phrases or combinations of words that Buffett frequently mentions.
 - The word cloud visualization presents an intuitive representation of the most frequent words in the text data.
 - The sentiment analysis over time reveals any shifts or changes in Buffett's sentiment across different years.
-- The lexical dispersion plot showcases the occurrence of specific words of interest across the years, providing insights into Buffett's focus areas.
+
 
 ## Further Improvements
 
