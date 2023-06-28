@@ -5,8 +5,7 @@ This project focuses on analyzing the annual shareholders' letters written by Wa
 
    
 ## Project Overview
-
-
+\
 - The project involves analyzing Warren Buffett's annual shareholders' letters using various natural language processing (NLP) techniques.
 - Sentiment analysis is performed to understand the polarity and subjectivity of the text and identify the overall sentiment of each letter.
 - Exploratory data analysis techniques, such as word frequency analysis, common bigrams analysis, and word cloud visualization, are used to uncover key themes and patterns in the letters.
